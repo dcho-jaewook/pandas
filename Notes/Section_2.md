@@ -45,7 +45,7 @@ If there's no argument passed while function call, the default arguments will be
 `Hello World   `
 
 `"   Hello World   ".rstrip()`
-`Hello World   `
+`   Hello World`
 
 `"   Hello World   ".strip()`
 `Hello World`
