@@ -65,3 +65,21 @@ Check whether the string starts with str
 Boolean
 Check whether the string ends with str
 
+##Lesson 18 "Lists"
+
+*.append(ele)*
+`list = [1, 2, 3, 4, 5]`
+`list.append(6)`
+`print(list) # [1, 2, 3, 4, 5, 6]`
+
+*.pop()*
+`list = [1, 2, 3, 4, 5]`
+`print(list.pop()) # 5`
+`print(list) # [1, 2, 3, 4]`
+
+*in, not in*
+`list = [1, 2, 3, 4, 5]`
+`print(1 in list) # True`
+`print(1 not in list) # False`
+
+
